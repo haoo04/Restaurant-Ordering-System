@@ -1,0 +1,46 @@
+Americano (Hot) 
+6
+Americano (Cold) 
+6
+Cappucino (Hot) 
+8
+Cappucino (cold) 
+8
+Latte (Hot) 
+9
+Latte (Cold) 
+9
+Caramel Latte (cold) 
+9.50
+Macha Latte (Cold) 
+9.50
+Macha Latte (Hot) 
+9.50
+Hazelnut Latte (Hot)
+8
+Lemon Tea (Cold) 
+4.90
+Honey Lemon (Cold) 
+6.90
+Passion Fruit (Cold) 
+6.90
+Passion FruitFizz (Cold) 
+7.90
+Mango Yogurt Fizz (Cold) 
+8.90
+Black Coffee Fizz (Cold) 
+8.90
+Black Currant Fizz (Cold) 
+7.90
+Mocha Coffee Ice Blended (Cold) 
+13.90
+Double Chocolate Blended (Cold) 
+11.90
+Soursop Ice Blended (Cold) 
+9
+OrganicP eppermint (Hot) 
+7
+English Breaks fast (Hot) 
+7
+Earl Grey (Hot) 
+7

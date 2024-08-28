@@ -1,0 +1,46 @@
+Grilled Salmon
+18.50
+Fish&Chips (salmon,tuna,swordfish)
+15.00
+Beef Steak(Ribeye)
+21.00
+Beef-Steak(Sirloin)
+20
+Bee fSteak Porterhouse
+20
+BBQ Grilled ChickenChop
+18
+BBQ Fried ChickenChop
+16
+Black Papper Fried Chicken Chop
+15
+Pork Chop (Rib)
+11
+Pork Chop (Loin)
+13
+Pork Chop (BonelessPork)
+12
+Chicken Alfredo 
+15
+Grilled Chicken Breast
+15
+Chicken Parmesan
+16
+Chicken Marsala
+16.50
+Japanese Chicken
+10
+Teriyaki Chicken
+10
+Teriyaki Salmon
+12
+Japanese Udon
+9
+VeggieStir Fry
+14
+Veggie Curry
+11.50
+Eggplant Parmesan
+12
+Veggie Burger
+8
